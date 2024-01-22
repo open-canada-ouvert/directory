@@ -36,7 +36,7 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [wordweaver](https://github.com/nrc-cnrc/wordweaver)
 - [YiSi](https://github.com/nrc-cnrc/YiSi)
 -
-### [CBC/Radio-Canada (CBC)](https://github.com/cbcrc)
+### [Radio-Canada](https://github.com/cbcrc)
 
 - [ansible-avd-old](https://github.com/cbcrc/ansible-avd-old)
 - [ansible-avd-old](https://github.com/cbcrc/ansible-avd-old)
@@ -196,6 +196,33 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [st2110-toolkit](https://github.com/cbcrc/st2110-toolkit)
 - [vocabclf](https://github.com/cbcrc/vocabclf)
 - [vocabclf](https://github.com/cbcrc/vocabclf)
+
+### [Services partagés Canada (SPC)](https://github.com/ssc-spc-cloud-nuage)
+
+- [actions](https://github.com/ssc-spc-cloud-nuage/actions)
+- [aks-logging](https://github.com/ssc-spc-cloud-nuage/aks-logging)
+- [AppServices_Module](https://github.com/ssc-spc-cloud-nuage/AppServices_Module)
+- [charts](https://github.com/ssc-spc-cloud-nuage/charts)
+- [container-azure-dev](https://github.com/ssc-spc-cloud-nuage/container-azure-dev)
+- [docker-github-runner](https://github.com/ssc-spc-cloud-nuage/docker-github-runner)
+- [docker-scaffold](https://github.com/ssc-spc-cloud-nuage/docker-scaffold)
+- [eslz-light](https://github.com/ssc-spc-cloud-nuage/eslz-light)
+- [eslz-template](https://github.com/ssc-spc-cloud-nuage/eslz-template)
+- [f5tools](https://github.com/ssc-spc-cloud-nuage/f5tools)
+- [github-runner-ansible](https://github.com/ssc-spc-cloud-nuage/github-runner-ansible)
+- [github-runner-docker](https://github.com/ssc-spc-cloud-nuage/github-runner-docker)
+- [helm-drupal](https://github.com/ssc-spc-cloud-nuage/helm-drupal)
+- [MSSQL_MODULE](https://github.com/ssc-spc-cloud-nuage/MSSQL_MODULE)
+- [myssc-solr](https://github.com/ssc-spc-cloud-nuage/myssc-solr)
+- [PBMM_CIO_Chatbot](https://github.com/ssc-spc-cloud-nuage/PBMM_CIO_Chatbot)
+- [rover-light](https://github.com/ssc-spc-cloud-nuage/rover-light)
+- [rover](https://github.com/ssc-spc-cloud-nuage/rover)
+- [ssc-drupal-framework](https://github.com/ssc-spc-cloud-nuage/ssc-drupal-framework)
+- [terraform-azurerm-policy-exemptions](https://github.com/ssc-spc-cloud-nuage/terraform-azurerm-policy-exemptions)
+- [terraform-provider-azurecaf](https://github.com/ssc-spc-cloud-nuage/terraform-provider-azurecaf)
+- [tfenv](https://github.com/ssc-spc-cloud-nuage/tfenv)
+- [tgenv](https://github.com/ssc-spc-cloud-nuage/tgenv)
+- [viya4-iac-azure](https://github.com/ssc-spc-cloud-nuage/viya4-iac-azure)
 
 ### [Transport Canada (TC)](https://github.com/tc-ca)
 
@@ -442,7 +469,7 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [ ] Postes Canada
 - [ ] Premier ministre du Canada
 - [ ] Programme du travail
-- [ ] Radio Canada
+- [x] [Radio-Canada](#radio-canada)
 - [ ] Recherche et développement pour la Défense Canada
 - [ ] Régie de l'énergie du Canada
 - [ ] Relations Couronne-Autochtones et Affaires du Nord Canada
@@ -463,7 +490,7 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [ ] Service des délégués commerciaux du Canada
 - [ ] Service des poursuites pénales du Canada
 - [ ] Services aux Autochtones Canada
-- [ ] Services partagés Canada
+- [x] [Services partagés Canada (SPC)](#services-partagés-canada-spc)
 - [ ] Services publics et Approvisionnement Canada
 - [ ] Société canadienne d'hypothèques et de logement
 - [ ] Société d'assurance-dépôts du Canada

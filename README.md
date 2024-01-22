@@ -6,36 +6,6 @@ EN | [FR](./README-fr.md)
 
 Here is a catalogue of the source code and data repositories of the various department and agencies of the Canadian government.
 
-### [National Research Council Canada (NRC)](https://github.com/nrc-cnrc/)
-
-- [appliance-lighting-load-generator](https://github.com/nrc-cnrc/appliance-lighting-load-generator)
-- [Canadian-Airspace-Models](https://github.com/nrc-cnrc/Canadian-Airspace-Models)
-- [COVID-US](https://github.com/nrc-cnrc/COVID-US)
-- [daamsim](https://github.com/nrc-cnrc/daamsim)
-- [EGSnrc](https://github.com/nrc-cnrc/EGSnrc)
-- [gramble](https://github.com/nrc-cnrc/gramble)
-- [HTML5-whiteboard](https://github.com/nrc-cnrc/HTML5-whiteboard)
-- [java-utils](https://github.com/nrc-cnrc/java-utils)
-- [luox-NRC-CIERf](https://github.com/nrc-cnrc/luox-NRC-CIERf)
-- [MetroloPy](https://github.com/nrc-cnrc/MetroloPy)
-- [MSLC23](https://github.com/nrc-cnrc/MSLC23)
-- [NRC-GAMMA](https://github.com/nrc-cnrc/NRC-GAMMA)
-- [NRC-SPIFpy](https://github.com/nrc-cnrc/NRC-SPIFpy)
-- [OpenStudio-Measures](https://github.com/nrc-cnrc/OpenStudio-Measures)
-- [PFT-ef-EAMT23](https://github.com/nrc-cnrc/PFT-ef-EAMT23)
-- [Portage-SMT-TAS](https://github.com/nrc-cnrc/Portage-SMT-TAS)
-- [PortageClusterUtils](https://github.com/nrc-cnrc/PortageClusterUtils)
-- [PortageTextProcessing](https://github.com/nrc-cnrc/PortageTextProcessing)
-- [PortageTMXPrepro](https://github.com/nrc-cnrc/PortageTMXPrepro)
-- [PortageTrainingFramework](https://github.com/nrc-cnrc/PortageTrainingFramework)
-- [Reranking-WMT20-IKU](https://github.com/nrc-cnrc/Reranking-WMT20-IKU)
-- [sockeye-multisource](https://github.com/nrc-cnrc/sockeye-multisource)
-- [vardial-2023](https://github.com/nrc-cnrc/vardial-2023)
-- [VerbConjugatorApp](https://github.com/nrc-cnrc/VerbConjugatorApp)
-- [WMT-Stability](https://github.com/nrc-cnrc/WMT-Stability)
-- [wordweaver](https://github.com/nrc-cnrc/wordweaver)
-- [YiSi](https://github.com/nrc-cnrc/YiSi)
-
 ### [CBC/Radio-Canada (CBC)](https://github.com/cbcrc)
 
 - [ansible-avd-old](https://github.com/cbcrc/ansible-avd-old)
@@ -117,6 +87,63 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [redux-form](https://github.com/cbcrc/redux-form)
 - [st2110-toolkit](https://github.com/cbcrc/st2110-toolkit)
 - [vocabclf](https://github.com/cbcrc/vocabclf)
+
+### [National Research Council Canada (NRC)](https://github.com/nrc-cnrc/)
+
+- [appliance-lighting-load-generator](https://github.com/nrc-cnrc/appliance-lighting-load-generator)
+- [Canadian-Airspace-Models](https://github.com/nrc-cnrc/Canadian-Airspace-Models)
+- [COVID-US](https://github.com/nrc-cnrc/COVID-US)
+- [daamsim](https://github.com/nrc-cnrc/daamsim)
+- [EGSnrc](https://github.com/nrc-cnrc/EGSnrc)
+- [gramble](https://github.com/nrc-cnrc/gramble)
+- [HTML5-whiteboard](https://github.com/nrc-cnrc/HTML5-whiteboard)
+- [java-utils](https://github.com/nrc-cnrc/java-utils)
+- [luox-NRC-CIERf](https://github.com/nrc-cnrc/luox-NRC-CIERf)
+- [MetroloPy](https://github.com/nrc-cnrc/MetroloPy)
+- [MSLC23](https://github.com/nrc-cnrc/MSLC23)
+- [NRC-GAMMA](https://github.com/nrc-cnrc/NRC-GAMMA)
+- [NRC-SPIFpy](https://github.com/nrc-cnrc/NRC-SPIFpy)
+- [OpenStudio-Measures](https://github.com/nrc-cnrc/OpenStudio-Measures)
+- [PFT-ef-EAMT23](https://github.com/nrc-cnrc/PFT-ef-EAMT23)
+- [Portage-SMT-TAS](https://github.com/nrc-cnrc/Portage-SMT-TAS)
+- [PortageClusterUtils](https://github.com/nrc-cnrc/PortageClusterUtils)
+- [PortageTextProcessing](https://github.com/nrc-cnrc/PortageTextProcessing)
+- [PortageTMXPrepro](https://github.com/nrc-cnrc/PortageTMXPrepro)
+- [PortageTrainingFramework](https://github.com/nrc-cnrc/PortageTrainingFramework)
+- [Reranking-WMT20-IKU](https://github.com/nrc-cnrc/Reranking-WMT20-IKU)
+- [sockeye-multisource](https://github.com/nrc-cnrc/sockeye-multisource)
+- [vardial-2023](https://github.com/nrc-cnrc/vardial-2023)
+- [VerbConjugatorApp](https://github.com/nrc-cnrc/VerbConjugatorApp)
+- [WMT-Stability](https://github.com/nrc-cnrc/WMT-Stability)
+- [wordweaver](https://github.com/nrc-cnrc/wordweaver)
+- [YiSi](https://github.com/nrc-cnrc/YiSi)
+
+### [Shared Services Canada (SSC)](https://github.com/ssc-spc-cloud-nuage)
+
+- [actions](https://github.com/ssc-spc-cloud-nuage/actions)
+- [aks-logging](https://github.com/ssc-spc-cloud-nuage/aks-logging)
+- [AppServices_Module](https://github.com/ssc-spc-cloud-nuage/AppServices_Module)
+- [charts](https://github.com/ssc-spc-cloud-nuage/charts)
+- [container-azure-dev](https://github.com/ssc-spc-cloud-nuage/container-azure-dev)
+- [docker-github-runner](https://github.com/ssc-spc-cloud-nuage/docker-github-runner)
+- [docker-scaffold](https://github.com/ssc-spc-cloud-nuage/docker-scaffold)
+- [eslz-light](https://github.com/ssc-spc-cloud-nuage/eslz-light)
+- [eslz-template](https://github.com/ssc-spc-cloud-nuage/eslz-template)
+- [f5tools](https://github.com/ssc-spc-cloud-nuage/f5tools)
+- [github-runner-ansible](https://github.com/ssc-spc-cloud-nuage/github-runner-ansible)
+- [github-runner-docker](https://github.com/ssc-spc-cloud-nuage/github-runner-docker)
+- [helm-drupal](https://github.com/ssc-spc-cloud-nuage/helm-drupal)
+- [MSSQL_MODULE](https://github.com/ssc-spc-cloud-nuage/MSSQL_MODULE)
+- [myssc-solr](https://github.com/ssc-spc-cloud-nuage/myssc-solr)
+- [PBMM_CIO_Chatbot](https://github.com/ssc-spc-cloud-nuage/PBMM_CIO_Chatbot)
+- [rover-light](https://github.com/ssc-spc-cloud-nuage/rover-light)
+- [rover](https://github.com/ssc-spc-cloud-nuage/rover)
+- [ssc-drupal-framework](https://github.com/ssc-spc-cloud-nuage/ssc-drupal-framework)
+- [terraform-azurerm-policy-exemptions](https://github.com/ssc-spc-cloud-nuage/terraform-azurerm-policy-exemptions)
+- [terraform-provider-azurecaf](https://github.com/ssc-spc-cloud-nuage/terraform-provider-azurecaf)
+- [tfenv](https://github.com/ssc-spc-cloud-nuage/tfenv)
+- [tgenv](https://github.com/ssc-spc-cloud-nuage/tgenv)
+- [viya4-iac-azure](https://github.com/ssc-spc-cloud-nuage/viya4-iac-azure)
 
 ### [Transport Canada (TC)](https://github.com/tc-ca)
 
@@ -263,7 +290,7 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [ ] Canadian Trade Commissioner Service
 - [ ] Canadian Transportation Agency
 - [ ] Canadian War Museum
-- [ ] CBC/Radio-Canada
+- [x] [CBC/Radio-Canada (CBC)](#cbcradio-canada-cbc)
 - [ ] Civilian Review and Complaints Commission for the RCMP
 - [ ] Commissioner for Federal Judicial Affairs Canada (Office of the)
 - [ ] Commissioner of Lobbying of Canada (Office of the)
@@ -380,7 +407,7 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [ ] Royal Military College of Canada
 - [ ] Secretariat of the National Security and Intelligence Committee of Parliamentarians
 - [ ] Service Canada
-- [ ] Shared Services Canada
+- [x] [Shared Services Canada (SSC)](#shared-services-canada-ssc)
 - [ ] Social Sciences and Humanities Research Council of Canada
 - [ ] Social Security Tribunal of Canada
 - [ ] Standards Council of Canada
