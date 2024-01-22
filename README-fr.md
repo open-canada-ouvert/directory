@@ -35,7 +35,7 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [WMT-Stability](https://github.com/nrc-cnrc/WMT-Stability)
 - [wordweaver](https://github.com/nrc-cnrc/wordweaver)
 - [YiSi](https://github.com/nrc-cnrc/YiSi)
--
+
 ### [Radio-Canada](https://github.com/cbcrc)
 
 - [ansible-avd-old](https://github.com/cbcrc/ansible-avd-old)
@@ -196,6 +196,15 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [st2110-toolkit](https://github.com/cbcrc/st2110-toolkit)
 - [vocabclf](https://github.com/cbcrc/vocabclf)
 - [vocabclf](https://github.com/cbcrc/vocabclf)
+
+### [Recherche et développement pour la Défense Canada (RDDC)](https://github.com/DND-DRDC-RDDC)
+
+- [OS_covid_IFR_Lombardy-MRM_DGH](https://github.com/DND-DRDC-RDDC/OS_covid_IFR_Lombardy-MRM_DGH)
+- [OS_COVID-19-POMDP-Dashboard](https://github.com/DND-DRDC-RDDC/OS_COVID-19-POMDP-Dashboard)
+- [OS_DriverMetadataExtractionCodes_RCM_C-band_SARdata](https://github.com/DND-DRDC-RDDC/OS_DriverMetadataExtractionCodes_RCM_C-band_SARdata)
+- [OS_ELLA](https://github.com/DND-DRDC-RDDC/OS_ELLA)
+- [OS_ORIGAME](https://github.com/DND-DRDC-RDDC/OS_ORIGAME)
+- [OS_PyCoMod](https://github.com/DND-DRDC-RDDC/OS_PyCoMod)
 
 ### [Services partagés Canada (SPC)](https://github.com/ssc-spc-cloud-nuage)
 
@@ -470,7 +479,7 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [ ] Premier ministre du Canada
 - [ ] Programme du travail
 - [x] [Radio-Canada](#radio-canada)
-- [ ] Recherche et développement pour la Défense Canada
+- [x] [Recherche et développement pour la Défense Canada (RDDC)](https://github.com/DND-DRDC-RDDC)
 - [ ] Régie de l'énergie du Canada
 - [ ] Relations Couronne-Autochtones et Affaires du Nord Canada
 - [ ] Réseau canadien d'information sur le patrimoine

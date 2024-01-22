@@ -88,6 +88,15 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [st2110-toolkit](https://github.com/cbcrc/st2110-toolkit)
 - [vocabclf](https://github.com/cbcrc/vocabclf)
 
+### [Defence Research and Development Canada (DRDC)](https://github.com/DND-DRDC-RDDC)
+
+- [OS_covid_IFR_Lombardy-MRM_DGH](https://github.com/DND-DRDC-RDDC/OS_covid_IFR_Lombardy-MRM_DGH)
+- [OS_COVID-19-POMDP-Dashboard](https://github.com/DND-DRDC-RDDC/OS_COVID-19-POMDP-Dashboard)
+- [OS_DriverMetadataExtractionCodes_RCM_C-band_SARdata](https://github.com/DND-DRDC-RDDC/OS_DriverMetadataExtractionCodes_RCM_C-band_SARdata)
+- [OS_ELLA](https://github.com/DND-DRDC-RDDC/OS_ELLA)
+- [OS_ORIGAME](https://github.com/DND-DRDC-RDDC/OS_ORIGAME)
+- [OS_PyCoMod](https://github.com/DND-DRDC-RDDC/OS_PyCoMod)
+
 ### [National Research Council Canada (NRC)](https://github.com/nrc-cnrc/)
 
 - [appliance-lighting-load-generator](https://github.com/nrc-cnrc/appliance-lighting-load-generator)
@@ -308,7 +317,7 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [ ] Courts Administration Service
 - [ ] Crown-Indigenous Relations and Northern Affairs Canada
 - [ ] Defence Construction Canada
-- [ ] Defence Research and Development Canada
+- [x] [Defence Research and Development Canada (DRDC)](#defence-research-and-development-canada-drdc)
 - [ ] Democratic Institutions
 - [ ] Destination Canada
 - [ ] Elections Canada
