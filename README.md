@@ -273,6 +273,51 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [wordweaver](https://github.com/nrc-cnrc/wordweaver)
 - [YiSi](https://github.com/nrc-cnrc/YiSi)
 
+### [Natural Resources Canada (NRCan)](https://github.com/NRCan)
+
+- [aws-secure-environment-accelerator](https://github.com/NRCan/aws-secure-environment-accelerator)
+- [backdrop](https://github.com/NRCan/backdrop)
+- [CanadaPubSecALZ](https://github.com/NRCan/CanadaPubSecALZ)
+- [CanFlood](https://github.com/NRCan/CanFlood)
+- [chyf-FGPviewer-extension](https://github.com/NRCan/chyf-FGPviewer-extension)
+- [chyf-skeletonizer](https://github.com/NRCan/chyf-skeletonizer)
+- [chyf](https://github.com/NRCan/chyf)
+- [cloud-guardrails-aws](https://github.com/NRCan/cloud-guardrails-aws)
+- [DataHub-Databricks](https://github.com/NRCan/DataHub-Databricks)
+- [datahub-portal](https://github.com/NRCan/datahub-portal)
+- [energuide_api_client_example](https://github.com/NRCan/energuide_api_client_example)
+- [energuide_api_deployment_docs](https://github.com/NRCan/energuide_api_deployment_docs)
+- [energuide_api_guide](https://github.com/NRCan/energuide_api_guide)
+- [energuide_api](https://github.com/NRCan/energuide_api)
+- [gcds-svelte-template](https://github.com/NRCan/gcds-svelte-template)
+- [gcweb-jekyll-demo](https://github.com/NRCan/gcweb-jekyll-demo)
+- [gcweb-jekyll](https://github.com/NRCan/gcweb-jekyll)
+- [GCWeb](https://github.com/NRCan/GCWeb)
+- [geo_sim_processing](https://github.com/NRCan/geo_sim_processing)
+- [geo-deep-learning](https://github.com/NRCan/geo-deep-learning)
+- [geoconnex](https://github.com/NRCan/geoconnex)
+- [Geoscaler](https://github.com/NRCan/Geoscaler)
+- [geoscience_language_models](https://github.com/NRCan/geoscience_language_models)
+- [geoscience_prospectivity_models](https://github.com/NRCan/geoscience_prospectivity_models)
+- [geoserver](https://github.com/NRCan/geoserver)
+- [GH_dashboard](https://github.com/NRCan/GH_dashboard)
+- [GSC-Field-Application-3](https://github.com/NRCan/GSC-Field-Application-3)
+- [GSC-Field-Application](https://github.com/NRCan/GSC-Field-Application)
+- [gsip](https://github.com/NRCan/gsip)
+- [hello](https://github.com/NRCan/hello)
+- [invitation-manager](https://github.com/NRCan/invitation-manager)
+- [Legend-Renderer](https://github.com/NRCan/Legend-Renderer)
+- [nrwxt-modules](https://github.com/NRCan/nrwxt-modules)
+- [nrwxt](https://github.com/NRCan/nrwxt)
+- [osdp-temp](https://github.com/NRCan/osdp-temp)
+- [Q2Pipe](https://github.com/NRCan/Q2Pipe)
+- [RICorDE](https://github.com/NRCan/RICorDE)
+- [SCS-PDF](https://github.com/NRCan/SCS-PDF)
+- [site-nrwxt](https://github.com/NRCan/site-nrwxt)
+- [spotlight](https://github.com/NRCan/spotlight)
+- [stagecraft](https://github.com/NRCan/stagecraft)
+- [violentmonkey](https://github.com/NRCan/violentmonkey)
+
 ### [Shared Services Canada (SSC)](https://github.com/ssc-spc-cloud-nuage)
 
 - [actions](https://github.com/ssc-spc-cloud-nuage/actions)
@@ -526,7 +571,7 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [x] [National Research Council Canada (NRC)](#national-research-council-canada-nrc)
 - [ ] National Security and Intelligence Review Agency
 - [ ] National Seniors Council
-- [ ] Natural Resources Canada
+- [x] [Natural Resources Canada (NRCan)](#natural-resources-canada-nrcan)
 - [ ] Natural Sciences and Engineering Research Canada
 - [ ] Northern Pipeline Agency Canada
 - [ ] Occupational Health and Safety Tribunal Canada
