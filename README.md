@@ -17,7 +17,6 @@
 - MetroloPy/
 - MSLC23/
 - NRC-GAMMA/
-- NRC-MedNER-Eval/
 - NRC-SPIFpy/
 - OpenStudio-Measures/
 - PFT-ef-EAMT23/
@@ -26,8 +25,6 @@
 - PortageTextProcessing/
 - PortageTMXPrepro/
 - PortageTrainingFramework/
-- Raith_GDSII/
-- repos.json
 - Reranking-WMT20-IKU/
 - sockeye-multisource/
 - vardial-2023/
