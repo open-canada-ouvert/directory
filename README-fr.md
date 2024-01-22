@@ -6,7 +6,7 @@
 
 Dans cette liste sont répertoriés les répositoires de code source ou de données des différents ministères et agences du gouvernement du Canada.
 
-### [gouvernement du Canada](https://github.com/canada-ca)
+### [Gouvernement du Canada](https://github.com/canada-ca)
 
 - [a11y](https://github.com/canada-ca/a11y)
 - [accelerators_accelerateurs-aws](https://github.com/canada-ca/accelerators_accelerateurs-aws)
@@ -79,6 +79,52 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [tracker](https://github.com/canada-ca/tracker)
 - [ucvdcc](https://github.com/canada-ca/ucvdcc)
 - [welcome](https://github.com/canada-ca/welcome)
+
+### [Agence canadienne d'inspection des aliments (ACIA)](https://github.com/ai-cfia)
+
+- [.github](https://github.com/ai-cfia/.github)
+- [ai-cfia-ia-acia.github.io](https://github.com/ai-cfia/ai-cfia-ia-acia.github.io)
+- [ailab-db](https://github.com/ai-cfia/ailab-db)
+- [AskCFIA-Text-Analytics](https://github.com/ai-cfia/AskCFIA-Text-Analytics)
+- [azure-db](https://github.com/ai-cfia/azure-db)
+- [cfia-data-science.github.io](https://github.com/ai-cfia/cfia-data-science.github.io)
+- [dev-rel-docs](https://github.com/ai-cfia/dev-rel-docs)
+- [devops](https://github.com/ai-cfia/devops)
+- [DigitalBusinessCards](https://github.com/ai-cfia/DigitalBusinessCards)
+- [django-timepiece](https://github.com/ai-cfia/django-timepiece)
+- [docu](https://github.com/ai-cfia/docu)
+- [fastapi-example](https://github.com/ai-cfia/fastapi-example)
+- [finesse-backend](https://github.com/ai-cfia/finesse-backend)
+- [finesse-data](https://github.com/ai-cfia/finesse-data)
+- [finesse-frontend](https://github.com/ai-cfia/finesse-frontend)
+- [flask-example](https://github.com/ai-cfia/flask-example)
+- [FRST](https://github.com/ai-cfia/FRST)
+- [github-workflows-test](https://github.com/ai-cfia/github-workflows-test)
+- [github-workflows](https://github.com/ai-cfia/github-workflows)
+- [ia-acia-github.io](https://github.com/ai-cfia/ia-acia-github.io)
+- [infra](https://github.com/ai-cfia/infra)
+- [louis-backend-old](https://github.com/ai-cfia/louis-backend-old)
+- [louis-backend](https://github.com/ai-cfia/louis-backend)
+- [louis-crawler](https://github.com/ai-cfia/louis-crawler)
+- [louis-frontend](https://github.com/ai-cfia/louis-frontend)
+- [louis-ingester](https://github.com/ai-cfia/louis-ingester)
+- [louis-invoices](https://github.com/ai-cfia/louis-invoices)
+- [louis-smartsearch-frontend](https://github.com/ai-cfia/louis-smartsearch-frontend)
+- [louis](https://github.com/ai-cfia/louis)
+- [membrane-backend](https://github.com/ai-cfia/membrane-backend)
+- [membrane-frontend](https://github.com/ai-cfia/membrane-frontend)
+- [multilang-filter](https://github.com/ai-cfia/multilang-filter)
+- [nachet-backend](https://github.com/ai-cfia/nachet-backend)
+- [nachet-data](https://github.com/ai-cfia/nachet-data)
+- [nachet-frontend](https://github.com/ai-cfia/nachet-frontend)
+- [nachet-metadata-format](https://github.com/ai-cfia/nachet-metadata-format)
+- [nachet-model](https://github.com/ai-cfia/nachet-model)
+- [obol](https://github.com/ai-cfia/obol)
+- [OGP-Summit-Hackathon-Sommet-PGO](https://github.com/ai-cfia/OGP-Summit-Hackathon-Sommet-PGO)
+- [PHAEDE](https://github.com/ai-cfia/PHAEDE)
+- [PoultryRedMeatCond](https://github.com/ai-cfia/PoultryRedMeatCond)
+- [Public-Service-Employee-Survey-Analysis](https://github.com/ai-cfia/Public-Service-Employee-Survey-Analysis)
+- [Wood-Packaging-Compliance-Analysis](https://github.com/ai-cfia/Wood-Packaging-Compliance-Analysis)
 
 ### [Conseil National de recherches Canada (CNRC)](https://github.com/nrc-cnrc/)
 
@@ -394,7 +440,7 @@ Dans cette liste sont répertoriés les répositoires de code source ou de donn�
 - [ ] Affaires autochtones et du Nord Canada
 - [ ] Affaires intergouvernementales
 - [ ] Affaires mondiales Canada
-- [ ] Agence canadienne d'inspection des aliments
+- [x] [Agence canadienne d'inspection des aliments (ACIA)](#agence-canadienne-dinspection-des-aliments-acia)
 - [ ] Agence canadienne de développement économique du Nord
 - [ ] Agence canadienne du pari mutuel
 - [ ] Agence d'évaluation d'impact du Canada

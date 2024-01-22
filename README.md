@@ -80,6 +80,52 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [ucvdcc](https://github.com/canada-ca/ucvdcc)
 - [welcome](https://github.com/canada-ca/welcome)
 
+### [Canadian Food Inspection Agency (CFIA)](https://github.com/ai-cfia)
+
+- [.github](https://github.com/ai-cfia/.github)
+- [ai-cfia-ia-acia.github.io](https://github.com/ai-cfia/ai-cfia-ia-acia.github.io)
+- [ailab-db](https://github.com/ai-cfia/ailab-db)
+- [AskCFIA-Text-Analytics](https://github.com/ai-cfia/AskCFIA-Text-Analytics)
+- [azure-db](https://github.com/ai-cfia/azure-db)
+- [cfia-data-science.github.io](https://github.com/ai-cfia/cfia-data-science.github.io)
+- [dev-rel-docs](https://github.com/ai-cfia/dev-rel-docs)
+- [devops](https://github.com/ai-cfia/devops)
+- [DigitalBusinessCards](https://github.com/ai-cfia/DigitalBusinessCards)
+- [django-timepiece](https://github.com/ai-cfia/django-timepiece)
+- [docu](https://github.com/ai-cfia/docu)
+- [fastapi-example](https://github.com/ai-cfia/fastapi-example)
+- [finesse-backend](https://github.com/ai-cfia/finesse-backend)
+- [finesse-data](https://github.com/ai-cfia/finesse-data)
+- [finesse-frontend](https://github.com/ai-cfia/finesse-frontend)
+- [flask-example](https://github.com/ai-cfia/flask-example)
+- [FRST](https://github.com/ai-cfia/FRST)
+- [github-workflows-test](https://github.com/ai-cfia/github-workflows-test)
+- [github-workflows](https://github.com/ai-cfia/github-workflows)
+- [ia-acia-github.io](https://github.com/ai-cfia/ia-acia-github.io)
+- [infra](https://github.com/ai-cfia/infra)
+- [louis-backend-old](https://github.com/ai-cfia/louis-backend-old)
+- [louis-backend](https://github.com/ai-cfia/louis-backend)
+- [louis-crawler](https://github.com/ai-cfia/louis-crawler)
+- [louis-frontend](https://github.com/ai-cfia/louis-frontend)
+- [louis-ingester](https://github.com/ai-cfia/louis-ingester)
+- [louis-invoices](https://github.com/ai-cfia/louis-invoices)
+- [louis-smartsearch-frontend](https://github.com/ai-cfia/louis-smartsearch-frontend)
+- [louis](https://github.com/ai-cfia/louis)
+- [membrane-backend](https://github.com/ai-cfia/membrane-backend)
+- [membrane-frontend](https://github.com/ai-cfia/membrane-frontend)
+- [multilang-filter](https://github.com/ai-cfia/multilang-filter)
+- [nachet-backend](https://github.com/ai-cfia/nachet-backend)
+- [nachet-data](https://github.com/ai-cfia/nachet-data)
+- [nachet-frontend](https://github.com/ai-cfia/nachet-frontend)
+- [nachet-metadata-format](https://github.com/ai-cfia/nachet-metadata-format)
+- [nachet-model](https://github.com/ai-cfia/nachet-model)
+- [obol](https://github.com/ai-cfia/obol)
+- [OGP-Summit-Hackathon-Sommet-PGO](https://github.com/ai-cfia/OGP-Summit-Hackathon-Sommet-PGO)
+- [PHAEDE](https://github.com/ai-cfia/PHAEDE)
+- [PoultryRedMeatCond](https://github.com/ai-cfia/PoultryRedMeatCond)
+- [Public-Service-Employee-Survey-Analysis](https://github.com/ai-cfia/Public-Service-Employee-Survey-Analysis)
+- [Wood-Packaging-Compliance-Analysis](https://github.com/ai-cfia/Wood-Packaging-Compliance-Analysis)
+
 ### [CBC/Radio-Canada (CBC)](https://github.com/cbcrc)
 
 - [ansible-avd-old](https://github.com/cbcrc/ansible-avd-old)
@@ -346,7 +392,7 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [ ] Canadian Conservation Institute
 - [ ] Canadian Cultural Property Export Review Board
 - [ ] Canadian Dairy Commission
-- [ ] Canadian Food Inspection Agency
+- [x] [Canadian Food Inspection Agency (CFIA)](#canadian-food-inspection-agency-cfia)
 - [ ] Canadian Forces Housing Agency
 - [ ] Canadian Grain Commission
 - [ ] Canadian Heritage
