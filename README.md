@@ -1,8 +1,10 @@
+EN | [FR](./README-fr.md)
+
 # Open Canada
 
 ## Directory of open Government Canada repositories
 
-### [National Research Council Canada](https://github.com/nrc-cnrc/)
+### [National Research Council Canada (NRC)](https://github.com/nrc-cnrc/)
 
 - [appliance-lighting-load-generator](https://github.com/nrc-cnrc/appliance-lighting-load-generator)
 - [Canadian-Airspace-Models](https://github.com/nrc-cnrc/Canadian-Airspace-Models)
