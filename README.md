@@ -126,6 +126,32 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [Public-Service-Employee-Survey-Analysis](https://github.com/ai-cfia/Public-Service-Employee-Survey-Analysis)
 - [Wood-Packaging-Compliance-Analysis](https://github.com/ai-cfia/Wood-Packaging-Compliance-Analysis)
 
+### [Canadian Space Agency (CSA)](https://github.com/asc-csa)
+
+- [Alouette_extract](https://github.com/asc-csa/Alouette_extract)
+- [AlouetteApp](https://github.com/asc-csa/AlouetteApp)
+- [Bilingual-Text-Analysis](https://github.com/asc-csa/Bilingual-Text-Analysis)
+- [BRITE_Tutorial](https://github.com/asc-csa/BRITE_Tutorial)
+- [Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial](https://github.com/asc-csa/Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial)
+- [CASSIOPE-Tutorial](https://github.com/asc-csa/CASSIOPE-Tutorial)
+- [ckan-gov-canada-harvester-master](https://github.com/asc-csa/ckan-gov-canada-harvester-master)
+- [ckanext-asc-csa-scheming](https://github.com/asc-csa/ckanext-asc-csa-scheming)
+- [ckanext-asc-csa](https://github.com/asc-csa/ckanext-asc-csa)
+- [dash-core-components](https://github.com/asc-csa/dash-core-components)
+- [Data-Conversion](https://github.com/asc-csa/Data-Conversion)
+- [Donnees-ouvertes-Open-Data](https://github.com/asc-csa/Donnees-ouvertes-Open-Data)
+- [EO-Visualization-and-Search-Tutorial](https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial)
+- [heart-rate-filtering](https://github.com/asc-csa/heart-rate-filtering)
+- [James-Webb-Space-Telescope-Tutorial](https://github.com/asc-csa/James-Webb-Space-Telescope-Tutorial)
+- [LEAD-Rover-Data-Tutorial](https://github.com/asc-csa/LEAD-Rover-Data-Tutorial)
+- [NEOSSAT_Tutorial](https://github.com/asc-csa/NEOSSAT_Tutorial)
+- [open-data-metadata-analysis](https://github.com/asc-csa/open-data-metadata-analysis)
+- [OSIRIS-REx-Tutorial](https://github.com/asc-csa/OSIRIS-REx-Tutorial)
+- [radarsat1-scripts](https://github.com/asc-csa/radarsat1-scripts)
+- [Scisat-App](https://github.com/asc-csa/Scisat-App)
+- [Synthetic_Aperture_Radar_Tutorial](https://github.com/asc-csa/Synthetic_Aperture_Radar_Tutorial)
+- [welcome-bienvenue](https://github.com/asc-csa/welcome-bienvenue)
+
 ### [CBC/Radio-Canada (CBC)](https://github.com/cbcrc)
 
 - [ansible-avd-old](https://github.com/cbcrc/ansible-avd-old)
@@ -414,7 +440,7 @@ Here is a catalogue of the source code and data repositories of the various depa
 - [ ] Canadian Race Relations Foundation
 - [ ] Canadian Radio-Television and Telecommunications Commission
 - [ ] Canadian Security Intelligence Service
-- [ ] Canadian Space Agency
+- [x] [Canadian Space Agency (CSA)](#canadian-space-agency-csa)
 - [ ] Canadian Special Operations Forces Command
 - [ ] Canadian Trade Commissioner Service
 - [ ] Canadian Transportation Agency
