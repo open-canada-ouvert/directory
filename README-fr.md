@@ -4,6 +4,8 @@
 
 ## Répertoire des répositoires ouverts du gouvernement du Canada
 
+Dans cette liste sont répertoriés les répositoires de code source ou de données des différentes branches du gouvernement du Canada.
+
 ### [Conseil National de recherches Canada (CNRC)](https://github.com/nrc-cnrc/)
 
 - [appliance-lighting-load-generator](https://github.com/nrc-cnrc/appliance-lighting-load-generator)

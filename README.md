@@ -4,6 +4,8 @@ EN | [FR](./README-fr.md)
 
 ## Directory of open Government Canada repositories
 
+In this list are cataloged the repositories of source code or data of the various branches of the Canadian government.
+
 ### [National Research Council Canada (NRC)](https://github.com/nrc-cnrc/)
 
 - [appliance-lighting-load-generator](https://github.com/nrc-cnrc/appliance-lighting-load-generator)
